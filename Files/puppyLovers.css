@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+img{
+    width: 100%;
+}
+.blueBG{
+ font-size: 40px;
+ background-color: #085070; 
+ color: #fff; 
+}
+.missing-puppy{
+    background-color: red;
+}
+.missing-puppy p{
+    font-size: 25px;
+}
+@media(min-width:992px){
+    .missing-puppy p{
+        font-size: 45px;
+    }  
+}
